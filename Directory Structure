@@ -1,0 +1,7 @@
+YOLO-Webcam-Detection/
+│
+├── venv/
+├── yolo-Weights/
+│   └── yolov8n.pt
+├── main.py
+├── requirements.txt  (Optional: if you want to save dependencies)
